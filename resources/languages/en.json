@@ -1,0 +1,163 @@
+{
+  "app": {
+    "name": "UPS Monitor",
+    "name_full": "UPS Monitor (NUT)"
+  },
+
+  "menu": {
+    "open_monitor": "Open Graphic Monitor",
+    "config": "Configuration",
+    "about": "About",
+    "exit": "Exit"
+  },
+
+  "windows": {
+    "monitor_exists": "Monitor already open, brought to foreground",
+    "config_exists": "Configuration window already open, brought to foreground",
+    "about_exists": "About window already open, brought to foreground"
+  },
+
+  "config": {
+    "title": "UPS Monitor Configuration",
+    "ups_host": "UPS Host",
+    "ups_port": "UPS Port",
+    "ups_name": "UPS Name",
+    "ups_user": "UPS Username (optional)",
+    "ups_password": "UPS Password (optional)",
+    "poll_interval": "Polling interval (sec)",
+    "low_battery_delay": "Low battery delay (sec)",
+	"shutdown_countdown": "Shutdown countdown (min)",
+    "shutdown_on_disconnect": "Shutdown PC if UPS disconnects",
+    "blackout_delay": "Blackout shutdown delay (min)",
+    "enable_logging": "Enable logging",
+	"log_level": "Log level",
+	"log_file_open_button": "Open log file",
+	"saved": "Parameters saved successfully.",
+	"save": "Save"
+  },
+
+  "dashboard": {
+    "battery": "🔋 Battery Parameters",
+    "ac": "🔌⚡ AC Parameters",
+    "ups": "🖥️ UPS Parameters"
+  },
+
+  "fields": {
+    "battery_charge": "Battery Charge (%)",
+    "battery_voltage": "Battery Voltage (V)",
+    "battery_runtime": "Battery Runtime (s)",
+    "battery_temp": "Battery Temperature (°C)",
+	"battery_voltage_high": "High Battery Voltage (V)",
+	"battery_voltage_low": "Low Battery Voltage (V)",
+	"battery_voltage_nominal": "Nominal Battery Voltage (V)",
+    "input_voltage": "Input Voltage (V)",
+	"input_voltage_nominal": "Nominal Input Voltage (V)",
+	"input_voltage_fault": "Fault Input Voltage (V)",
+	"input_frequency": "Input Frequency (Hz)",
+	"input_frequency_nominal": "Nominal Input Frequency (Hz)",
+	"input_current_nominal": "Nominal Input Current (A)",
+	"output_voltage": "Output Voltage (V)",
+    "output_load": "Output Load (%)",
+    "ups_status": "UPS Status",
+    "ups_model": "UPS Model",
+	"ups_load": "UPS Load (%)",
+	"ups_temperature": "UPS Temperature (°C)",
+	"ups_delay_shutdown": "UPS Shutdown Delay (s)",
+	"ups_delay_start": "UPS Start Delay (s)",
+	"ups_beeper_status": "UPS Beeper Status",
+	"ups_type": "UPS Type",
+	"ups_firmware": "UPS Firmware",
+	"ups_product_id": "UPS Product ID",
+	"ups_vendor_id": "UPS Vendor ID",
+    "ups_manufacturer": "UPS Manufacturer",
+	"device_manufacturer": "Device Manufacturer",
+	"device_model": "Device Model",
+	"device_type": "Device Type",
+	"driver_name": "Driver Name",
+	"driver_version": "Driver Version"
+  },
+
+  "tray": {
+    "tooltip_status": "UPS Status: {status}",
+    "tooltip_status_battery": "UPS Status: {status}, Battery: {battery}%",
+    "tooltip_full": "UPS Status: {status}, Battery: {battery}%, On battery: {on_battery}",
+	"tooltip_battery": "Battery: {battery_text}",
+	"tooltip_status_label": "UPS Status",
+    "tooltip_battery_label": "Battery percentage"
+  },
+
+  "notifications": {
+    "on_battery": "UPS switched to battery!",
+    "battery_mode": "UPS running on battery!",
+    "back_to_line": "UPS returned to line power!",
+    "line_power": "UPS back on AC power",
+	"blackout": "Probable blackout detected: shutdown timer started",
+	"blackout_countdown_status": "{status} due to possible blackout. Shutting down in {minutes:02d}:{seconds:02d}",
+	"blackout_countdown": "Probable blackout! PC shutting down in {minutes:02d}:{seconds:02d}",
+	"tray_close": "UPS Tray Close"
+  },
+
+  "battery": {
+    "low_detected": "Low battery detected. Starting shutdown countdown.",
+    "critical_detected": "Critical battery detected. Possible shutdown.",
+    "critical_countdown": "CRITICAL battery! Shutdown in {remaining}s",
+	"critical_countdown_status": "{status} - CRITICAL battery! Shutdown in {remaining}s",
+    "critical_confirmed": "Critical battery confirmed. Shutting down PC.",
+    "low_recovered": "Low battery recovered. Countdown cancelled."
+  },
+
+  "shutdown": {
+    "shutdown_now": "PC shutdown due to critical battery!",
+	"shutdown_countdown_over": "Countdown completed: PC is shutting down..."
+  },
+
+  "errors": {
+    "error": "Error",
+    "connection": "Connection error",
+    "nut_connection": "NUT error: unable to connect to UPS",
+    "open_monitor": "Error opening monitor: {error}",
+    "open_log": "Error opening log file: {error}",
+	"non_existent_log": "The log file does not exist yet.",
+	"toast_sending_error": "Error sending Windows toast: {error}",
+	"popup_sending_error": "Error generating popup: {error}",
+	"nut_error": "NUT error: {error}",
+	"valid_numeric": "Enter only valid numeric values.",
+	"image_load": "Unable to load {paypal_img}: {error}"
+  },
+  
+  "warnings": {
+    "icon_not_found": "Icon not found in path: {icon_path}",
+	"icon_not_loaded": "Icon not loaded: {warning}",
+	"icon_not_valid": "ICO exists but is invalid",
+	"no_icons_founded": "No icons found: {ico_path} | {png_path}"
+  },
+  
+  "infos": {
+    "icon_set": "ICO icon set",
+	"fallback_icon_set": "Fallback PNG set"
+  },
+  
+  "about": {
+    "version": "Version {version}",
+	"description": "Application for UPS monitoring and\nautomatic shutdown management\nin case of blackout or low battery.\n\nUPS Monitor is free and always will be.\n\nIf you find it useful, you can support development\nby choosing how much to pay.\n\nEven a few euros make a difference ❤️",
+    "developer": "Developed by {author}\n© {copyright}",
+	"license": "License: {license}",
+	"github": "Source code on GitHub",
+    "donate": "Support development"
+  },
+  
+  "ups": {
+    "online": "On Line",
+    "on_battery": "On Battery",
+    "low_battery": "Low Battery",
+    "replace_battery": "Replace Battery",
+    "overload": "Overload",
+    "charging": "Charging",
+    "discharging": "Discharging",
+    "boost": "Boost",
+    "trim": "Trim",
+    "calibration": "Calibration",
+    "off": "Off",
+    "unknown": "Unknown"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "app": {
+    "name": "UPS 모니터",
+    "name_full": "UPS 모니터 (NUT)"
+  },
+
+  "menu": {
+    "open_monitor": "그래픽 모니터 열기",
+    "config": "설정",
+    "about": "정보",
+    "exit": "종료"
+  },
+
+  "windows": {
+    "monitor_exists": "모니터가 이미 열려 있습니다. 전면으로 표시되었습니다",
+    "config_exists": "설정 창이 이미 열려 있습니다. 전면으로 표시되었습니다",
+    "about_exists": "정보 창이 이미 열려 있습니다. 전면으로 표시되었습니다"
+  },
+
+  "config": {
+    "title": "UPS 모니터 설정",
+    "ups_host": "UPS 호스트",
+    "ups_port": "UPS 포트",
+    "ups_name": "UPS 이름",
+    "ups_user": "UPS 사용자 이름 (선택 사항)",
+    "ups_password": "UPS 비밀번호 (선택 사항)",
+    "poll_interval": "폴링 간격 (초)",
+    "low_battery_delay": "배터리 부족 지연 (초)",
+    "shutdown_countdown": "종료 카운트다운 (분)",
+    "shutdown_on_disconnect": "UPS 연결 해제 시 PC 종료",
+    "blackout_delay": "정전 시 종료 지연 (분)",
+    "enable_logging": "로그 활성화",
+    "log_level": "로그 레벨",
+    "log_file_open_button": "로그 파일 열기",
+    "saved": "설정이 성공적으로 저장되었습니다.",
+    "save": "저장"
+  },
+
+  "dashboard": {
+    "battery": "🔋 배터리 파라미터",
+    "ac": "🔌⚡ AC 파라미터",
+    "ups": "🖥️ UPS 파라미터"
+  },
+
+  "fields": {
+    "battery_charge": "배터리 충전 (%)",
+    "battery_voltage": "배터리 전압 (V)",
+    "battery_runtime": "배터리 사용 시간 (초)",
+    "battery_temp": "배터리 온도 (°C)",
+    "battery_voltage_high": "배터리 고전압 (V)",
+    "battery_voltage_low": "배터리 저전압 (V)",
+    "battery_voltage_nominal": "배터리 정격 전압 (V)",
+    "input_voltage": "입력 전압 (V)",
+    "input_voltage_nominal": "정격 입력 전압 (V)",
+    "input_voltage_fault": "입력 전압 오류 (V)",
+    "input_frequency": "입력 주파수 (Hz)",
+    "input_frequency_nominal": "정격 주파수 (Hz)",
+    "input_current_nominal": "정격 입력 전류 (A)",
+    "output_voltage": "출력 전압 (V)",
+    "output_load": "출력 부하 (%)",
+    "ups_status": "UPS 상태",
+    "ups_model": "UPS 모델",
+    "ups_load": "UPS 부하 (%)",
+    "ups_temperature": "UPS 온도 (°C)",
+    "ups_delay_shutdown": "UPS 종료 지연 (초)",
+    "ups_delay_start": "UPS 시작 지연 (초)",
+    "ups_beeper_status": "UPS 경고음 상태",
+    "ups_type": "UPS 유형",
+    "ups_firmware": "UPS 펌웨어",
+    "ups_product_id": "UPS 제품 ID",
+    "ups_vendor_id": "UPS 공급업체 ID",
+    "ups_manufacturer": "UPS 제조사",
+    "device_manufacturer": "장치 제조사",
+    "device_model": "장치 모델",
+    "device_type": "장치 유형",
+    "driver_name": "드라이버 이름",
+    "driver_version": "드라이버 버전"
+  },
+
+  "tray": {
+    "tooltip_status": "UPS 상태: {status}",
+    "tooltip_status_battery": "UPS 상태: {status}, 배터리: {battery}%",
+    "tooltip_full": "UPS 상태: {status}, 배터리: {battery}%, 배터리 사용 중: {on_battery}",
+    "tooltip_battery": "배터리: {battery_text}",
+    "tooltip_status_label": "UPS 상태",
+    "tooltip_battery_label": "배터리 비율"
+  },
+
+  "notifications": {
+    "on_battery": "UPS가 배터리 모드로 전환되었습니다!",
+    "battery_mode": "UPS가 배터리로 작동 중입니다!",
+    "back_to_line": "UPS가 전원으로 복귀했습니다!",
+    "line_power": "UPS가 다시 AC 전원에 연결되었습니다",
+    "blackout": "정전 가능성 감지: 종료 타이머 시작",
+    "blackout_countdown_status": "{status} 정전 가능성으로 인해 {minutes:02d}:{seconds:02d} 후 종료",
+    "blackout_countdown": "정전 가능성! {minutes:02d}:{seconds:02d} 후 PC 종료",
+    "tray_close": "UPS 트레이 닫기"
+  },
+
+  "battery": {
+    "low_detected": "배터리 부족 감지. 카운트다운 시작.",
+    "critical_detected": "배터리 위험 상태 감지. 종료 가능성 있음.",
+    "critical_countdown": "배터리 위험! {remaining}s 후 종료",
+    "critical_countdown_status": "{status} - 배터리 위험! {remaining}s 후 종료",
+    "critical_confirmed": "배터리 위험 상태 확인. PC 종료.",
+    "low_recovered": "배터리 복구됨. 카운트다운 취소."
+  },
+
+  "shutdown": {
+    "shutdown_now": "배터리 위험으로 PC 종료!",
+    "shutdown_countdown_over": "카운트다운 완료: PC 종료 중..."
+  },
+
+  "errors": {
+    "error": "오류",
+    "connection": "연결 오류",
+    "nut_connection": "NUT 오류: UPS에 연결할 수 없습니다",
+    "open_monitor": "모니터 열기 오류: {error}",
+    "open_log": "로그 파일 열기 오류: {error}",
+    "non_existent_log": "로그 파일이 아직 존재하지 않습니다.",
+    "toast_sending_error": "Windows 알림 전송 오류: {error}",
+    "popup_sending_error": "팝업 생성 오류: {error}",
+    "nut_error": "NUT 오류: {error}",
+    "valid_numeric": "유효한 숫자 값만 입력하세요.",
+    "image_load": "{paypal_img} 로드 실패: {error}"
+  },
+
+  "warnings": {
+    "icon_not_found": "아이콘을 찾을 수 없습니다: {icon_path}",
+    "icon_not_loaded": "아이콘 로드 실패: {warning}",
+    "icon_not_valid": "ICO 파일이 존재하지만 유효하지 않습니다",
+    "no_icons_founded": "아이콘을 찾을 수 없음: {ico_path} | {png_path}"
+  },
+
+  "infos": {
+    "icon_set": "ICO 아이콘 설정됨",
+    "fallback_icon_set": "대체 PNG 설정됨"
+  },
+
+  "about": {
+    "version": "버전 {version}",
+    "description": "UPS 모니터링 및\n정전 또는 배터리 부족 시\n자동 종료 관리를 위한 애플리케이션입니다.\n\nUPS Monitor는 무료이며 앞으로도 계속 무료입니다.\n\n유용하다고 생각되면\n지불 금액을 선택하여 개발을 지원할 수 있습니다.\n\n적은 금액이라도 큰 도움이 됩니다 ❤️",
+    "developer": "{author}에 의해 개발됨\n© {copyright}",
+    "license": "라이선스: {license}",
+    "github": "GitHub 소스 코드",
+    "donate": "개발 지원"
+  },
+
+  "ups": {
+    "online": "온라인",
+    "on_battery": "배터리 사용 중",
+    "low_battery": "배터리 부족",
+    "replace_battery": "배터리 교체",
+    "overload": "과부하",
+    "charging": "충전 중",
+    "discharging": "방전 중",
+    "boost": "부스트",
+    "trim": "감압",
+    "calibration": "보정",
+    "off": "꺼짐",
+    "unknown": "알 수 없음"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "app": {
+    "name": "Монитор ИБП",
+    "name_full": "Монитор ИБП (NUT)"
+  },
+
+  "menu": {
+    "open_monitor": "Открыть графический монитор",
+    "config": "Настройки",
+    "about": "О программе",
+    "exit": "Выход"
+  },
+
+  "windows": {
+    "monitor_exists": "Монитор уже открыт, окно выведено на передний план",
+    "config_exists": "Окно настроек уже открыто, выведено на передний план",
+    "about_exists": "Окно «О программе» уже открыто, выведено на передний план"
+  },
+
+  "config": {
+    "title": "Настройки монитора ИБП",
+    "ups_host": "Хост ИБП",
+    "ups_port": "Порт ИБП",
+    "ups_name": "Имя ИБП",
+    "ups_user": "Пользователь ИБП (необязательно)",
+    "ups_password": "Пароль ИБП (необязательно)",
+    "poll_interval": "Интервал опроса (сек)",
+    "low_battery_delay": "Задержка при низком заряде (сек)",
+    "shutdown_countdown": "Обратный отсчёт до выключения (мин)",
+    "shutdown_on_disconnect": "Выключать ПК при отключении ИБП",
+    "blackout_delay": "Задержка выключения при отключении питания (мин)",
+    "enable_logging": "Включить логирование",
+    "log_level": "Уровень логирования",
+    "log_file_open_button": "Открыть файл журнала",
+    "saved": "Параметры успешно сохранены.",
+    "save": "Сохранить"
+  },
+
+  "dashboard": {
+    "battery": "🔋 Параметры батареи",
+    "ac": "🔌⚡ Параметры сети",
+    "ups": "🖥️ Параметры ИБП"
+  },
+
+  "fields": {
+    "battery_charge": "Заряд батареи (%)",
+    "battery_voltage": "Напряжение батареи (В)",
+    "battery_runtime": "Время работы батареи (с)",
+    "battery_temp": "Температура батареи (°C)",
+    "battery_voltage_high": "Высокое напряжение батареи (В)",
+    "battery_voltage_low": "Низкое напряжение батареи (В)",
+    "battery_voltage_nominal": "Номинальное напряжение батареи (В)",
+    "input_voltage": "Входное напряжение (В)",
+    "input_voltage_nominal": "Номинальное входное напряжение (В)",
+    "input_voltage_fault": "Аварийное входное напряжение (В)",
+    "input_frequency": "Частота входа (Гц)",
+    "input_frequency_nominal": "Номинальная частота (Гц)",
+    "input_current_nominal": "Номинальный входной ток (А)",
+    "output_voltage": "Выходное напряжение (В)",
+    "output_load": "Нагрузка (%)",
+    "ups_status": "Состояние ИБП",
+    "ups_model": "Модель ИБП",
+    "ups_load": "Нагрузка ИБП (%)",
+    "ups_temperature": "Температура ИБП (°C)",
+    "ups_delay_shutdown": "Задержка выключения ИБП (с)",
+    "ups_delay_start": "Задержка запуска ИБП (с)",
+    "ups_beeper_status": "Состояние зуммера ИБП",
+    "ups_type": "Тип ИБП",
+    "ups_firmware": "Прошивка ИБП",
+    "ups_product_id": "ID продукта ИБП",
+    "ups_vendor_id": "ID производителя ИБП",
+    "ups_manufacturer": "Производитель ИБП",
+    "device_manufacturer": "Производитель устройства",
+    "device_model": "Модель устройства",
+    "device_type": "Тип устройства",
+    "driver_name": "Имя драйвера",
+    "driver_version": "Версия драйвера"
+  },
+
+  "tray": {
+    "tooltip_status": "Состояние ИБП: {status}",
+    "tooltip_status_battery": "Состояние ИБП: {status}, Батарея: {battery}%",
+    "tooltip_full": "Состояние ИБП: {status}, Батарея: {battery}%, От батареи: {on_battery}",
+    "tooltip_battery": "Батарея: {battery_text}",
+    "tooltip_status_label": "Состояние ИБП",
+    "tooltip_battery_label": "Уровень батареи"
+  },
+
+  "notifications": {
+    "on_battery": "ИБП перешёл на батарею!",
+    "battery_mode": "ИБП работает от батареи!",
+    "back_to_line": "ИБП вернулся к сети!",
+    "line_power": "ИБП снова питается от сети",
+    "blackout": "Обнаружено возможное отключение питания: запущен таймер выключения",
+    "blackout_countdown_status": "{status} из-за возможного отключения питания. Выключение через {minutes:02d}:{seconds:02d}",
+    "blackout_countdown": "Возможное отключение питания! ПК выключится через {minutes:02d}:{seconds:02d}",
+    "tray_close": "Закрыть значок ИБП"
+  },
+
+  "battery": {
+    "low_detected": "Обнаружен низкий заряд батареи. Запуск отсчёта.",
+    "critical_detected": "Обнаружен критический заряд батареи. Возможное выключение.",
+    "critical_countdown": "КРИТИЧЕСКИЙ заряд! Выключение через {remaining}s",
+    "critical_countdown_status": "{status} - КРИТИЧЕСКИЙ заряд! Выключение через {remaining}s",
+    "critical_confirmed": "Критический заряд подтверждён. Выключение ПК.",
+    "low_recovered": "Заряд восстановлен. Отсчёт отменён."
+  },
+
+  "shutdown": {
+    "shutdown_now": "Выключение ПК из-за критического заряда!",
+    "shutdown_countdown_over": "Отсчёт завершён: ПК выключается..."
+  },
+
+  "errors": {
+    "error": "Ошибка",
+    "connection": "Ошибка подключения",
+    "nut_connection": "Ошибка NUT: невозможно подключиться к ИБП",
+    "open_monitor": "Ошибка открытия монитора: {error}",
+    "open_log": "Ошибка открытия файла журнала: {error}",
+    "non_existent_log": "Файл журнала ещё не существует.",
+    "toast_sending_error": "Ошибка отправки уведомления Windows: {error}",
+    "popup_sending_error": "Ошибка создания всплывающего окна: {error}",
+    "nut_error": "Ошибка NUT: {error}",
+    "valid_numeric": "Введите только корректные числовые значения.",
+    "image_load": "Не удалось загрузить {paypal_img}: {error}"
+  },
+
+  "warnings": {
+    "icon_not_found": "Иконка не найдена по пути: {icon_path}",
+    "icon_not_loaded": "Иконка не загружена: {warning}",
+    "icon_not_valid": "Файл ICO существует, но некорректен",
+    "no_icons_founded": "Иконки не найдены: {ico_path} | {png_path}"
+  },
+
+  "infos": {
+    "icon_set": "ICO иконка установлена",
+    "fallback_icon_set": "Резервная PNG иконка установлена"
+  },
+
+  "about": {
+    "version": "Версия {version}",
+    "description": "Приложение для мониторинга ИБП и\nавтоматического управления выключением\nв случае отключения электроэнергии или разряда батареи.\n\nUPS Monitor бесплатен и всегда будет бесплатным.\n\nЕсли оно вам полезно, вы можете поддержать разработку,\nвыбрав сумму оплаты.\n\nДаже несколько евро имеют значение ❤️",
+    "developer": "Разработано {author}\n© {copyright}",
+    "license": "Лицензия: {license}",
+    "github": "Исходный код на GitHub",
+    "donate": "Поддержать разработку"
+  },
+
+  "ups": {
+    "online": "В сети",
+    "on_battery": "От батареи",
+    "low_battery": "Низкий заряд",
+    "replace_battery": "Заменить батарею",
+    "overload": "Перегрузка",
+    "charging": "Зарядка",
+    "discharging": "Разрядка",
+    "boost": "Повышение",
+    "trim": "Понижение",
+    "calibration": "Калибровка",
+    "off": "Выключен",
+    "unknown": "Неизвестно"
+  }
+}
