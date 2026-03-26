@@ -17,6 +17,7 @@ venv/
 	 
 build/
 dist/
+output/
 *.spec
 
 # Log
