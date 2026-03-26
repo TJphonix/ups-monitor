@@ -2,6 +2,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Download](https://img.shields.io/github/v/release/USERNAME/REPO)
 
 ## 📦 Download
 
