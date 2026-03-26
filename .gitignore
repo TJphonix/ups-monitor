@@ -1,18 +1,22 @@
-# Python
+# Ignora sorgenti Python
+*.py
+resources/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.py # Per non caricare nemmeno i sorgenti
+										  
 
 # Virtual env
 venv/
 .env/
 
 # Build / distribuzione
-dist/
+	 
 build/
-resources/
+dist/
 *.spec
 
 # Log
@@ -29,6 +33,8 @@ config.json
 .DS_Store
 Thumbs.db
 
-# Altri
+# Script locali
 *.bat
+
+# Installer script (opzionale: se non vuoi pubblicarlo)
 *.iss
