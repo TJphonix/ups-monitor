@@ -12,7 +12,26 @@ Scarica l’ultima versione stabile di **UPS Monitor** dalla sezione Releases:
 [![Download](https://img.shields.io/github/downloads/TJphonix/ups-monitor/total?style=for-the-badge&label=⬇️%20Download%20Now)](https://github.com/TJphonix/ups-monitor/releases/latest)
 
 Include installer e tutte le versioni precedenti.
+
+---
+
+## ❤️ Supporta il progetto
+
+UPS Monitor è gratuito e continuerà ad esserlo.
+
+Se ti è utile, puoi supportare lo sviluppo scegliendo quanto pagare:
+
+👉 **Versione ufficiale / Supporto sviluppo:**
+
+[![Support](https://img.shields.io/badge/🚀%20Download%20%2F%20Support-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
+
+Puoi anche continuare a scaricarlo gratuitamente da GitHub.
+
+---
+
 # ⚡ UPS Monitor
+
+💡 Software gratuito – supportato dagli utenti tramite contributi volontari
 
 UPS Monitor è un software gratuito per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
 
@@ -123,13 +142,21 @@ Non è necessario accedere al codice sorgente per l’utilizzo.
 
 UPS Monitor è sviluppato e mantenuto in modo indipendente.
 
-Se il software ti è utile, puoi supportare lo sviluppo con una donazione volontaria:
+Puoi supportare il progetto in due modi:
+
+### 🔹 Supporto consigliato
+👉 Versione ufficiale su Gumroad (puoi scegliere quanto pagare)  
+
+[![Support](https://img.shields.io/badge/🚀%20Download%20%2F%20Support-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 
+
+### 🔹 Donazione diretta
 [![Paypal](screenshot/paypal-donate-button-high-quality.png)](https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR)
 
 
-Le donazioni sono completamente volontarie e aiutano a migliorare il progetto nel tempo.
+Anche un piccolo contributo aiuta a migliorare il progetto nel tempo 🙏
+
 
 ---
 
