@@ -1,71 +1,72 @@
-# UPS Monitor
+# ⚡ UPS Monitor
 
-UPS Monitor è un'applicazione per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
+UPS Monitor è un software gratuito per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
 
-Il software è pensato per ambienti domestici e small office e consente di monitorare un UPS collegato a un NAS Terramaster (TOS) e a più PC presenti sulla stessa rete locale.
+È progettato per ambienti domestici e small office e consente il controllo centralizzato di un UPS collegato a un NAS Terramaster (TOS) (o di altra marca) e a più PC presenti sulla stessa rete locale.
 
-* * *
+---
+
+## 🎯 Obiettivo
+
+Garantire continuità operativa e sicurezza dei dispositivi collegati all’UPS, automatizzando il monitoraggio e le azioni di spegnimento in caso di emergenza.
+
+---
 
 ## ✨ Funzionalità
 
-- Monitoraggio in tempo reale dello stato dell’UPS
-- Rilevamento blackout e stato batteria
-- Notifiche di stato e allarmi
-- Gestione spegnimento automatico dei dispositivi (PC / NAS)
-- Interfaccia grafica desktop leggera
-- Icona residente nella system tray
+- 📊 Monitoraggio in tempo reale dello stato dell’UPS
+- ⚡ Rilevamento blackout e stato batteria
+- 🔔 Notifiche di stato e allarmi
+- 💻 Spegnimento automatico di PC e NAS in rete
+- 🖥️ Interfaccia grafica desktop leggera
+- 📌 Icona residente nella system tray
 
-* * *
+---
 
 ## 📦 Installazione
 
-1.  Scaricare l’ultima versione dalla sezione **Releases**
-2.  Avviare il file di installazione (`.exe`)
-3.  Seguire la procedura guidata
-4.  Avviare UPS Monitor
+1. Scaricare l’ultima versione dalla sezione **Releases**
+2. Avviare il file di installazione (`.exe`)
+3. Seguire la procedura guidata
+4. Avviare UPS Monitor
 
-> Non è richiesta installazione di Python o dipendenze esterne
+> Non è richiesta installazione di Python o dipendenze aggiuntive
 
-* * *
+---
 
 ## ⚙️ Configurazione
 
-La configurazione viene gestita tramite interfaccia grafica.
+La configurazione avviene tramite interfaccia grafica.
 
 Parametri principali:
 
 - Indirizzo UPS / server NUT
-- Dispositivi da monitorare
-- Timeout e soglie batteria
-- Opzioni di spegnimento automatico
+- Dispositivi da monitorare in rete
+- Soglie batteria e timeout
+- Azioni di spegnimento automatico
 
-Il file di configurazione viene salvato localmente in formato JSON.
+Le impostazioni vengono salvate localmente in formato JSON.
 
-* * *
+---
 
 ## 🖥️ Interfaccia
 
-### Icona system tray
-
+### System tray
 ![Tray Icon](screenshot/tray_icon.png)
 
 ### Menu rapido
-
 ![Tray Menu](screenshot/menù.png)
 
-### Pannello di configurazione
-
+### Configurazione
 ![Configuration](screenshot/configuration.png)
 
-### Informazioni applicazione
-
+### Informazioni
 ![About](screenshot/about.png)
 
-### Dashboard monitor
-
+### Monitor
 ![Monitor](screenshot/monitor.png)
 
-* * *
+---
 
 ## 📁 Distribuzione
 
@@ -73,29 +74,47 @@ UPS Monitor viene distribuito esclusivamente come eseguibile Windows.
 
 Non è necessario accedere al codice sorgente per l’utilizzo.
 
-* * *
+---
 
 ## ⚠️ Requisiti
 
 - Windows 10 / 11
-- Connessione LAN (per monitoraggio UPS in rete)
+- Connessione LAN o Wireless attiva
 
-* * *
+---
 
-## 📌 Note
+## 💡 Supporto al progetto
 
-Il progetto è in continua evoluzione e potrebbero essere rilasciati aggiornamenti con nuove funzionalità e miglioramenti.
+UPS Monitor è sviluppato e mantenuto in modo indipendente.
 
-* * *
+Se il software ti è utile, puoi supportare lo sviluppo con una donazione volontaria:
 
-## 💡 Supporto
-
-Se questo software ti è utile, puoi supportare lo sviluppo tramite donazione.
+👉 💖 Dona tramite PayPal
 
 [![Paypal](screenshot/paypal.gif)](https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR)
 
-* * *
+
+Le donazioni sono completamente volontarie e aiutano a migliorare il progetto nel tempo.
+
+---
+
+## 📌 Note
+
+Il progetto è in continua evoluzione e verranno rilasciati aggiornamenti con nuove funzionalità e miglioramenti.
+
+---
 
 ## 📜 Licenza
 
-Progetto proprietario. Tutti i diritti riservati.
+Copyright © 2026 UPS Monitor
+
+Questo software è proprietario.
+
+Tutti i diritti sono riservati.
+
+L’utilizzo è consentito esclusivamente tramite le versioni ufficiali distribuite dall’autore.
+
+Non è consentito:
+- decompilare o effettuare reverse engineering
+- modificare il software
+- redistribuire versioni modificate
