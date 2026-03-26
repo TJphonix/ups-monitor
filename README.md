@@ -31,9 +31,8 @@ Puoi anche continuare a scaricarlo gratuitamente da GitHub.
 
 # ⚡ UPS Monitor
 
-💡 Software gratuito – supportato dagli utenti tramite contributi volontari
 
-UPS Monitor è un software gratuito per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
+UPS Monitor è un software per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
 
 È progettato per ambienti domestici e small office e consente il controllo centralizzato di un UPS collegato a un NAS Terramaster (TOS) (o di altra marca) e a più PC presenti sulla stessa rete locale.
 
