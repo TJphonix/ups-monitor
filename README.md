@@ -31,5 +31,5 @@ Schermata di configurazione: 
 Schermata delle informazioni: 
 ![Schermata delle informazioni](screenshot/about.png)
 
-Schermata monitori: 
+Schermata monitor: 
 ![Schermata monitor](screenshot/monitor.png)
