@@ -125,9 +125,8 @@ UPS Monitor è sviluppato e mantenuto in modo indipendente.
 
 Se il software ti è utile, puoi supportare lo sviluppo con una donazione volontaria:
 
-👉 💖 Dona tramite PayPal
 
-[![Paypal](screenshot/paypal.gif)](https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR)
+[![Paypal](screenshot/paypal-donate-button-high-quality.png)](https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR)
 
 
 Le donazioni sono completamente volontarie e aiutano a migliorare il progetto nel tempo.
