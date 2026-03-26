@@ -9,7 +9,7 @@
 
 Scarica l’ultima versione stabile di **UPS Monitor** dalla sezione Releases:
 
-👉 [Download latest release](https://github.com/USERNAME/REPO/releases/latest)
+👉 [Download latest release](https://github.com/TJphonix/ups-monitor/releases/latest)
 
 Include installer e tutte le versioni precedenti.
 # ⚡ UPS Monitor
