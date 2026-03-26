@@ -3,6 +3,13 @@
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## 📦 Download
+
+Scarica l’ultima versione stabile di **UPS Monitor** dalla sezione Releases:
+
+👉 [Download latest release](https://github.com/USERNAME/REPO/releases/latest)
+
+Include installer e tutte le versioni precedenti.
 # ⚡ UPS Monitor
 
 UPS Monitor è un software gratuito per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
