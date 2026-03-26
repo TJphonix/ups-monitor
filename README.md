@@ -1,8 +1,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Release](https://img.shields.io/github/v/release/TJphonix/ups-monitor?label=release&display_name=tag)
+[![Download](https://img.shields.io/github/downloads/TJphonix/ups-monitor/total)](https://github.com/TJphonix/ups-monitor/releases/latest)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-All%20rights%20reserved-red)
 
 ## 📦 Download
 
