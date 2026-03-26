@@ -137,19 +137,20 @@ Non è necessario accedere al codice sorgente per l’utilizzo.
 
 ---
 
-## 💡 Supporto al progetto
+## 💡 Supporta il progetto
 
 UPS Monitor è sviluppato e mantenuto in modo indipendente.
 
 Puoi supportare il progetto in due modi:
 
-### 🔹 Supporto consigliato
+### 🚀 Supporto consigliato
 👉 Versione ufficiale su Gumroad (puoi scegliere quanto pagare)  
 
 [![🚀 UPS MONITOR - DOWNLOAD & SUPPORT](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20DOWNLOAD%20%26%20SUPPORT-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 
-### 🔹 Donazione diretta
+### 💳 Donazione diretta
+PayPal (supporto libero)
 [![Paypal](screenshot/paypal-donate-button-high-quality.png)](https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR)
 
 
