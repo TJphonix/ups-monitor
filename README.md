@@ -20,16 +20,16 @@ Applicazione per il monitoraggio UPS e la gestione automatica dello spegnimento 
 
 Icona della barra delle applicazioni: 
 
-![Icona della barra delle applicazioni](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/tray_icon.png)
+![Icona della barra delle applicazioni](screenshot/tray_icon.png)
 
 Menù della barra delle applicazioni: 
-![Menù della barra delle applicazioni](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/men%C3%B9.png)
+![Menù della barra delle applicazioni](screenshot/menù.png)
 
 Schermata di configurazione: 
-![Schermata di configurazione](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/configuration.png)
+![Schermata di configurazione](screenshot/configuration.png)
 
 Schermata delle informazioni: 
-![Schermata delle informazioni](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/about.png)
+![Schermata delle informazioni](screenshot/about.png)
 
 Schermata monitori: 
-![Schermata monitor](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/monitor.png)
+![Schermata monitor](screenshot/monitor.png)
