@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.py # Per non caricare nemmeno i sorgenti
 
 # Virtual env
 venv/
@@ -11,6 +12,7 @@ venv/
 # Build / distribuzione
 dist/
 build/
+resources/
 *.spec
 
 # Log
@@ -26,3 +28,7 @@ config.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Altri
+*.bat
+*.iss
