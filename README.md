@@ -51,20 +51,42 @@ Le impostazioni vengono salvate localmente in formato JSON.
 
 ## 🖥️ Interfaccia
 
-### System tray
-![Tray Icon](screenshot/tray_icon.png)
+Di seguito alcune schermate dell’applicazione.
 
-### Menu rapido
-![Tray Menu](screenshot/menù.png)
+<div align="center">
 
-### Configurazione
-![Configuration](screenshot/configuration.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>⚡ System Tray</b><br>
+      <img src="screenshot/tray_icon.png" width="320"/>
+    </td>
+    <td align="center">
+      <b>📋 Menu rapido</b><br>
+      <img src="screenshot/menù.png" width="320"/>
+    </td>
+  </tr>
 
-### Informazioni
-![About](screenshot/about.png)
+  <tr>
+    <td align="center">
+      <b>⚙️ Configurazione</b><br>
+      <img src="screenshot/configuration.png" width="320"/>
+    </td>
+    <td align="center">
+      <b>ℹ️ Informazioni</b><br>
+      <img src="screenshot/about.png" width="320"/>
+    </td>
+  </tr>
 
-### Monitor
-![Monitor](screenshot/monitor.png)
+  <tr>
+    <td colspan="2" align="center">
+      <b>📊 Monitor</b><br>
+      <img src="screenshot/monitor.png" width="500"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
