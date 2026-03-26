@@ -1,35 +1,95 @@
 # UPS Monitor
 
-Applicazione per il monitoraggio UPS e la gestione automatica dello spegnimento in caso di blackout o batteria scarica. L'applicazione è stata sviluppata per Windows e gestisce l'UPS collegato ai NAS Terramaster con sistema operativo TOS, ed è pensata per gestire anche uno o più PC collegati allo stesso UPS e alla stessa rete lan
+UPS Monitor è un'applicazione per il monitoraggio di gruppi di continuità (UPS) e la gestione automatica delle azioni di sicurezza in caso di blackout o batteria scarica.
 
-## Funzionalità
+Il software è pensato per ambienti domestici e small office e consente di monitorare un UPS collegato a un NAS Terramaster (TOS) e a più PC presenti sulla stessa rete locale.
 
-- Monitoraggio stato UPS
-- Notifiche
-- Interfaccia grafica
+---
 
-## Installazione
+## ✨ Funzionalità
 
-(da completare)
+- Monitoraggio in tempo reale dello stato dell’UPS
+- Rilevamento blackout e stato batteria
+- Notifiche di stato e allarmi
+- Gestione spegnimento automatico dei dispositivi (PC / NAS)
+- Interfaccia grafica desktop leggera
+- Icona residente nella system tray
 
-## Configurazione
+---
 
-(da completare)
+## 📦 Installazione
 
-## Screenshot
+1. Scaricare l’ultima versione dalla sezione **Releases**
+2. Avviare il file di installazione (`.exe`)
+3. Seguire la procedura guidata
+4. Avviare UPS Monitor
 
-Icona della barra delle applicazioni: 
+> Non è richiesta installazione di Python o dipendenze esterne
 
-![Icona della barra delle applicazioni](screenshot/tray_icon.png)
+---
 
-Menù della barra delle applicazioni: 
-![Menù della barra delle applicazioni](screenshot/menù.png)
+## ⚙️ Configurazione
 
-Schermata di configurazione: 
-![Schermata di configurazione](screenshot/configuration.png)
+La configurazione viene gestita tramite interfaccia grafica.
 
-Schermata delle informazioni: 
-![Schermata delle informazioni](screenshot/about.png)
+Parametri principali:
+- Indirizzo UPS / server NUT
+- Dispositivi da monitorare
+- Timeout e soglie batteria
+- Opzioni di spegnimento automatico
 
-Schermata monitor: 
-![Schermata monitor](screenshot/monitor.png)
+Il file di configurazione viene salvato localmente in formato JSON.
+
+---
+
+## 🖥️ Interfaccia
+
+### Icona system tray
+![Tray Icon](screenshot/tray_icon.png)
+
+### Menu rapido
+![Tray Menu](screenshot/menù.png)
+
+### Pannello di configurazione
+![Configuration](screenshot/configuration.png)
+
+### Informazioni applicazione
+![About](screenshot/about.png)
+
+### Dashboard monitor
+![Monitor](screenshot/monitor.png)
+
+---
+
+## 📁 Distribuzione
+
+UPS Monitor viene distribuito esclusivamente come eseguibile Windows.
+
+Non è necessario accedere al codice sorgente per l’utilizzo.
+
+---
+
+## ⚠️ Requisiti
+
+- Windows 10 / 11
+- Connessione LAN (per monitoraggio UPS in rete)
+
+---
+
+## 📌 Note
+
+Il progetto è in continua evoluzione e potrebbero essere rilasciati aggiornamenti con nuove funzionalità e miglioramenti.
+
+---
+
+## 💡 Supporto
+
+Se questo software ti è utile, puoi supportare lo sviluppo tramite donazione.
+
+https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR
+
+---
+
+## 📜 Licenza
+
+Progetto proprietario. Tutti i diritti riservati.
