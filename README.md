@@ -47,23 +47,23 @@ Il file di configurazione viene salvato localmente in formato JSON.
 
 ### Icona system tray
 
-![Tray Icon](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/tray_icon.png)
+![Tray Icon](screenshot/tray_icon.png)
 
 ### Menu rapido
 
-![Tray Menu](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/men%C3%B9.png)
+![Tray Menu](screenshot/menù.png)
 
 ### Pannello di configurazione
 
-![Configuration](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/configuration.png)
+![Configuration](screenshot/configuration.png)
 
 ### Informazioni applicazione
 
-![About](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/about.png)
+![About](screenshot/about.png)
 
 ### Dashboard monitor
 
-![Monitor](/C:/Program%20Files/Joplin/resources/app.asar/screenshot/monitor.png)
+![Monitor](screenshot/monitor.png)
 
 * * *
 
