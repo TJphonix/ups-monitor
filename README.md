@@ -151,6 +151,7 @@ Puoi supportare il progetto in due modi:
 
 ### 💳 Donazione diretta
 PayPal (supporto libero)
+
 [![Paypal](screenshot/paypal-donate-button-high-quality.png)](https://www.paypal.com/donate/?business=25B2PS8PWW4JU&no_recurring=0&item_name=%E2%9D%A4%EF%B8%8F+Supporta+lo+sviluppo&currency_code=EUR)
 
 
