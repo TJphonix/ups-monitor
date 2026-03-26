@@ -9,7 +9,7 @@
 
 Scarica l’ultima versione stabile di **UPS Monitor** dalla sezione Releases:
 
-[![Download](https://img.shields.io/badge/⬇️%20Download%20for%20Windows-UPS%20Monitor-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TJphonix/ups-monitor/releases/latest)
+[![Download](https://img.shields.io/github/downloads/TJphonix/ups-monitor/total?style=for-the-badge&label=⬇️%20Download%20Now)](https://github.com/TJphonix/ups-monitor/releases/latest)
 
 Include installer e tutte le versioni precedenti.
 # ⚡ UPS Monitor
