@@ -38,7 +38,7 @@ UPS Monitor 是免费软件，并将保持免费。
 
 👉 **官方版本 / 开发支持：**
 
-[![Support](https://img.shields.io/badge/🚀%20下载%20%2F%20支持-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![Support](https://img.shields.io/badge/🚀%20下载%20%2F%20支持-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 你也可以继续在 GitHub 上免费下载。
 
@@ -160,7 +160,7 @@ UPS Monitor 由独立开发者维护。
 ### 🚀 推荐方式
 👉 Gumroad 官方版本（自由定价）
 
-[![🚀 UPS MONITOR - 下载与支持](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20下载%20%26%20支持-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![🚀 UPS MONITOR - 下载与支持](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20下载%20%26%20支持-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 ### 💳 直接捐赠
 PayPal（可选）

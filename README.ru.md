@@ -38,7 +38,7 @@ UPS Monitor является бесплатным программным обе�
 
 👉 **Официальная версия / Поддержка разработки:**
 
-[![Support](https://img.shields.io/badge/🚀%20Скачать%20%2F%20Поддержать-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![Support](https://img.shields.io/badge/🚀%20Скачать%20%2F%20Поддержать-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 Также вы можете продолжать скачивать его бесплатно через GitHub.
 
@@ -160,7 +160,7 @@ UPS Monitor разрабатывается независимо.
 ### 🚀 Рекомендуемый способ
 👉 Официальная версия на Gumroad (свободная цена)
 
-[![🚀 UPS MONITOR - СКАЧАТЬ И ПОДДЕРЖАТЬ](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20СКАЧАТЬ%20%26%20ПОДДЕРЖАТЬ-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![🚀 UPS MONITOR - СКАЧАТЬ И ПОДДЕРЖАТЬ](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20СКАЧАТЬ%20%26%20ПОДДЕРЖАТЬ-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 ### 💳 Прямая поддержка
 PayPal (по желанию)

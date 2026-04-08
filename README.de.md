@@ -38,7 +38,7 @@ Wenn Ihnen die Software hilft, können Sie die Entwicklung unterstützen, indem 
 
 👉 **Offizielle Version / Entwicklungsunterstützung:**
 
-[![Support](https://img.shields.io/badge/🚀%20Download%20%2F%20Support-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![Support](https://img.shields.io/badge/🚀%20Download%20%2F%20Support-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 Sie können die Software weiterhin kostenlos über GitHub herunterladen.
 
@@ -160,7 +160,7 @@ Sie können das Projekt auf zwei Arten unterstützen:
 ### 🚀 Empfohlene Unterstützung
 👉 Offizielle Version auf Gumroad (Preis frei wählbar)  
 
-[![🚀 UPS MONITOR - DOWNLOAD & SUPPORT](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20DOWNLOAD%20%26%20SUPPORT-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![🚀 UPS MONITOR - DOWNLOAD & SUPPORT](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20DOWNLOAD%20%26%20SUPPORT-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 ### 💳 Direkte Spende
 PayPal (freiwillige Unterstützung)

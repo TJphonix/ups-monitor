@@ -38,7 +38,7 @@ If you find it useful, you can support development by choosing how much to pay:
 
 👉 **Official version / Support development:**
 
-[![Support](https://img.shields.io/badge/🚀%20Download%20%2F%20Support-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![Support](https://img.shields.io/badge/🚀%20Download%20%2F%20Support-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 You can still download it for free from GitHub.
 
@@ -160,7 +160,7 @@ You can support the project in two ways:
 ### 🚀 Recommended support
 👉 Official version on Gumroad (choose how much to pay)  
 
-[![🚀 UPS MONITOR - DOWNLOAD & SUPPORT](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20DOWNLOAD%20%26%20SUPPORT-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![🚀 UPS MONITOR - DOWNLOAD & SUPPORT](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20DOWNLOAD%20%26%20SUPPORT-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 ### 💳 Direct donation
 PayPal (optional support)

@@ -38,7 +38,7 @@ UPS Monitor は無料で提供されており、今後も無料で利用でき�
 
 👉 **公式版 / 開発支援：**
 
-[![Support](https://img.shields.io/badge/🚀%20ダウンロード%20%2F%20支援-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![Support](https://img.shields.io/badge/🚀%20ダウンロード%20%2F%20支援-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 GitHub から無料でダウンロードし続けることも可能です。
 
@@ -160,7 +160,7 @@ UPS Monitor は個人開発により維持されています。
 ### 🚀 推奨サポート
 👉 Gumroad の公式版（任意の金額）  
 
-[![🚀 UPS MONITOR - ダウンロード & 支援](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20ダウンロード%20%26%20支援-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![🚀 UPS MONITOR - ダウンロード & 支援](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20ダウンロード%20%26%20支援-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 ### 💳 直接寄付
 PayPal（任意）

@@ -38,7 +38,7 @@ UPS Monitor는 무료이며 앞으로도 무료로 제공됩니다.
 
 👉 **공식 버전 / 개발 지원:**
 
-[![Support](https://img.shields.io/badge/🚀%20다운로드%20%2F%20지원-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![Support](https://img.shields.io/badge/🚀%20다운로드%20%2F%20지원-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 GitHub에서 계속 무료로 다운로드할 수도 있습니다.
 
@@ -160,7 +160,7 @@ UPS Monitor는 독립적으로 개발 및 유지되고 있습니다.
 ### 🚀 추천 지원
 👉 Gumroad 공식 버전 (자유 금액 결제)  
 
-[![🚀 UPS MONITOR - 다운로드 & 지원](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20다운로드%20%26%20지원-Gumroad-orange?style=for-the-badge)](https://gum.new/gum/cmn8oj9b6000c04jp3nzu5ar1)
+[![🚀 UPS MONITOR - 다운로드 & 지원](https://img.shields.io/badge/🚀%20UPS%20MONITOR%20--%20다운로드%20%26%20지원-Gumroad-orange?style=for-the-badge)](https://tjphonix.gumroad.com/l/ups-monitor)
 
 ### 💳 직접 후원
 PayPal (선택 사항)
