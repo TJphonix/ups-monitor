@@ -5,6 +5,21 @@
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-All%20rights%20reserved-red)
 
+## 🌍 Language / Lingua
+
+- 🇬🇧 English → [README.md](README.md)
+- 🇮🇹 Italiano (corrente)
+- 🇪🇸 Español → [README.es.md](README.es.md)
+- 🇩🇪 Deutsch → [README.de.md](README.de.md)
+- 🇫🇷 Français → [README.fr.md](README.fr.md)
+- 🇯🇵 日本語 → [README.ja.md](README.ja.md)
+- 🇰🇷 한국어 → [README.ko.md](README.ko.md)
+- 🇵🇹 Português → [README.pt.md](README.pt.md)
+- 🇷🇺 Русский → [README.ru.md](README.ru.md)
+- 🇨🇳 简体中文 → [README.zh.md](README.zh.md)
+
+---
+
 ## 📦 Download
 
 Scarica l’ultima versione stabile di **UPS Monitor** dalla sezione Releases:
